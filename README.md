@@ -8,7 +8,7 @@ Hello, this is machine learning part of Obesifix application made by Capstone Te
 - [Introduction](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#machine-learning-team)
 - [ML Team](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#machine-learning-team)
 - [What We Do?](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#what-we-do)
-- [What We Use?](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#What Packages that we use in Google Colab/Jupyter Notebook)
+- [What We Use?](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#What-Packages-that-we-use-in-Google-Colab/Jupyter-Notebook)
 - [Repositories](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#repositories)
 - [Image Classification Model](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#image-classification-model)
 - [Recommendation System](https://github.com/Obesifix-Bangkit-2023/Machine_Learning#recommendation-system)
