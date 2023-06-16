@@ -2,6 +2,11 @@
 ![Obesifix-Bangkit-2023](https://github.com/Obesifix-Bangkit-2023/Machine_Learning/assets/125628050/fb62b6b9-6b78-4cde-acab-c5ae59efe4b0)
 
 The first model is for classifying food pictures into 19 categories in which we will be able to calculate the nutrition of this food. For the model, we built a sequential model using Tensorflow and Keras API. We use transfer learning InceptionV3. Our input are trained through some parts of the InceptionV3 layers. Then the output is flattened. After that, it is then passed into a Deep Neural Network with Dropout Layers. <br>
+Input : image(256, 256)<br>
+Output : 19 labels<br>
+Total params: 23,851,784<br>
+Trainable params: 23,817,352<br>
+Time : 5440s<br>
 The 19 categories are:<br>
 Apple<br>
 Banana<br>
