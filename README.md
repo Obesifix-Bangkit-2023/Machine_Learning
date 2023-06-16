@@ -57,16 +57,21 @@ We are developing a food classification & recommendation model that suggests sui
 | Time : 5440s |  Rice, Spaghetti, Sushi          |
 
 # Recommendation System
-Using KNN we filter the food according to user's freference and health condition.
+Using KNN we filter the food according to user's preference and health condition.
 
-|   Food Preferences (19 type of preferences) |                                Health Conditions                                |
-| :----------------: | :----------------------------------------------------------------: |
-|   Beef, Bread, Breakfast, Chicken     |      Underweight                        |
-|  Cookies, Dairy Product, Dessert, Duck  |  Normal                 |
-| Fish, Fruit, Lamb, Lunch, Pasta |  Overweight          |
-| Pork, Rice, Seafood, Soup, Soy Product, Vegetable |  Obese          |
+|   Food Preferences (19 type of preferences) |
+| :----------------: |
+|   Beef, Bread, Breakfast, Chicken     |
+|  Cookies, Dairy Product, Dessert, Duck  |
+| Fish, Fruit, Lamb, Lunch, Pasta |
+| Pork, Rice, Seafood, Soup, Soy Product, Vegetable | 
 
-
+|                               Health Conditions                                |
+| :----------------------------------------------------------------: |
+|      Underweight                        |
+|  Normal                 |
+|  Overweight          |
+|  Obese          |
 # Machine Learning Model
 
 ![Machine Learning Model](https://www.linkpicture.com/q/sfer.png)
